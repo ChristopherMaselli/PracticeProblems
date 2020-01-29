@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.exe
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.deps.json
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.json
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.dll
+C:\Users\Christopher\Desktop\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.pdb
+C:\Users\Christopher\Desktop\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.dll
+C:\Users\Christopher\Desktop\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.pdb
