@@ -21,16 +21,16 @@ namespace PracticeProblems {
 
             //UPDATE: My solution might actually be better O_o;
 
-            int[] array2 = new int[] { 9, 4, 9, 8, 4 };
+            int[] array = new int[] { 9, 4, 9, 8, 4 };
 
             //Put everything into HashSet
             HashSet<int> set = new HashSet<int> ();
 
-            for (int i = 0; i < array2.Length; i++) {
-                if (set.Contains (array2[i])) {
+            for (int i = 0; i < array.Length; i++) {
+                if (set.Contains (array[i])) {
                     return "False";
                 } else {
-                    set.Add (array2[i]);
+                    set.Add (array[i]);
                 }
             }
 

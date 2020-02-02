@@ -23,8 +23,6 @@ namespace PracticeProblems {
             string s = "anagram";
             string t = "nagaram";
 
-            string sol = "True";
-
             Dictionary<Char, int> dictS = new Dictionary<char, int> ();
             Dictionary<Char, int> dictT = new Dictionary<char, int> ();
 
