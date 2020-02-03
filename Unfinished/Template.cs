@@ -11,10 +11,10 @@ namespace PracticeProblems {
             string s = "";
 
             /*
-                for (int i = 0; i < (array.Length); i++) {
-                    s += array[i].ToString ();
-                }
-                return s;
+            for (int i = 0; i < (array.Length); i++) {
+                s += array[i].ToString ();
+            }
+            return s;
             */
             return s;
         }
