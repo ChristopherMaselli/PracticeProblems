@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 
-namespace PracticeProblems {
-    public class BuySellStock {
+namespace PracticeProblems
+{
+    public class BuySellStock
+    {
         /*
         Say you have an array for which the ith element is the price of a given stock on day i.
 
@@ -15,7 +17,10 @@ namespace PracticeProblems {
         Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
         Not 7-1 = 6, as selling price needs to be larger than buying price.
         */
-        public string Solution () {
+        public string Solution()
+        {
+            string s = "";
+            /*
             int[] array = new int[] { 7, 1, 5, 3, 6, 4 };
             int[] sortedArray = new int[array.Length];
             int maxProfit = 0;
