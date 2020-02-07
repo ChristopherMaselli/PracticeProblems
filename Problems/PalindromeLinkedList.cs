@@ -131,7 +131,8 @@ Could you do it in O(n) time and O(1) space?
                 prev = current;
                 current = nextTemp;
             }
-            linkedList.root = prev;
+            reversedList.root = prev;
+
             LinkedList.Node linkedListNode = linkedList.First;
             LinkedList.Node reverseListNode = reversedList.First;
 
