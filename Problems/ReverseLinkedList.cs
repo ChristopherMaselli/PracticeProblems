@@ -21,6 +21,7 @@ Output: true
 Follow up:
 Could you do it in O(n) time and O(1) space?
 
+Note: Built and used personal LinkedList class to do question without built-in functions
         */
 
         public class LinkedList

@@ -13,6 +13,8 @@ Given linked list -- head = [4,5,1,9], which looks like following:
 Input: head = [4,5,1,9], node = 5
 Output: [4,1,9]
 Explanation: You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
+
+//Built and used personal LinkedList Class for practice vs using C# generic collections;
         */
         public class LinkedList
         {

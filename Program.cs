@@ -6,7 +6,7 @@ namespace PracticeProblems
     {
         static void Main(string[] args)
         {
-            var c1 = new PalindromeLinkedList();
+            var c1 = new IntersectionOfLinkedList();
             //c1.Solution();
             Console.WriteLine(c1.Solution());
         }
